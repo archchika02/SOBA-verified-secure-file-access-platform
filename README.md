@@ -87,7 +87,7 @@ The system initializes a SQLite database (`soba_secure_vault.db`) with the follo
 |---------|------------|
 | **Verify Page** | ![Verify Page](doc/verify.png) |
 | **Admin Dashboard** | ![Admin Dashboard](doc/admin1.png) |
-| **Admin Dashboard with logs** | ![Admin Dashboard with logs](doc/admin2.png) |
+| **Admin Dashboard with logs** | ![Admin Dashboard with logs](doc/admin2.jpeg) |
 | **Editor Page** | ![Editor Page](doc/editor.png) |
 | **Viewer Page** | ![Viewer Page](doc/viewer.png) |
 | **File View Page** | ![File View Page](doc/view.png) |
