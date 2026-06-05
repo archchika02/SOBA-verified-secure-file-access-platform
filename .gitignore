@@ -1,0 +1,23 @@
+# Dependency directories
+node_modules/
+
+# Next.js build outputs
+.next/
+out/
+
+# SQLite databases & upload nodes
+soba_secure_vault.db
+uploads/*
+!uploads/.gitkeep
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env*.local
+.env
+.env.development
+.env.production
+.env.test
+
