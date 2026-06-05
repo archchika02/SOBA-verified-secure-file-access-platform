@@ -85,12 +85,12 @@ The system initializes a SQLite database (`soba_secure_vault.db`) with the follo
 
 | Feature | Screenshot |
 |---------|------------|
-| **Verify Page** | ![Verify Page](docs/verify.png) |
-| **Admin Dashboard** | ![Admin Dashboard](docs/admin1.png) |
-| **Admin Dashboard with logs** | ![Admin Dashboard with logs](docs/admin2.png) |
-| **Editor Page** | ![Editor Page](docs/editor.png) |
-| **Viewer Page** | ![Viewer Page](docs/viewer.png) |
-| **File View Page** | ![File View Page](docs/view.png) |
-| **Email Format** | ![Email Format](docs/email.png) |
-| **SOBA Verification Page** | ![SOBA Verification Page](docs/soba.png) |
-| **SQLite Database** | ![SQLite Database](docs/db.png) |
+| **Verify Page** | ![Verify Page](doc/verify.png) |
+| **Admin Dashboard** | ![Admin Dashboard](doc/admin1.png) |
+| **Admin Dashboard with logs** | ![Admin Dashboard with logs](doc/admin2.png) |
+| **Editor Page** | ![Editor Page](doc/editor.png) |
+| **Viewer Page** | ![Viewer Page](doc/viewer.png) |
+| **File View Page** | ![File View Page](doc/view.png) |
+| **Email Format** | ![Email Format](doc/email.png) |
+| **SOBA Verification Page** | ![SOBA Verification Page](doc/soba.png) |
+| **SQLite Database** | ![SQLite Database](doc/db.png) |
